@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610168369592",
+    "project_id": "beache-93673",
+    "storage_bucket": "beache-93673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610168369592:android:aa3a1b4e9c0a1725e85f4d",
+        "android_client_info": {
+          "package_name": "com.example.beaches_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610168369592-aivc3362lubqum8h4gr9qoa2l60e79vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzP4WaAK8mDbIXyz5pVATECwG-lwDD1r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610168369592-aivc3362lubqum8h4gr9qoa2l60e79vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
